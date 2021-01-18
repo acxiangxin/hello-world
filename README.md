@@ -1,5 +1,7 @@
-# hello-world
+# leetcode
 just practice
 
-hello, I like java 
-just another code
+
+
+leetcode everyday !
+
